@@ -15,3 +15,7 @@ Their properties include,
 They are ordered.
 They are immutable.
 They store duplicate items without any trouble.
+
+## queues
+Queue is a data structure that stores items in a first in first out manner example when lining up to enter in threatre the first person in line is first one to enter
+
